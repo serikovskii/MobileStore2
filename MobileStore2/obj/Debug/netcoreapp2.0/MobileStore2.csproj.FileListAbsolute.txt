@@ -1,0 +1,11 @@
+C:\Users\МукушевА.CORP\source\repos\MobileStore2\MobileStore2\bin\Debug\netcoreapp2.0\MobileStore2.deps.json
+C:\Users\МукушевА.CORP\source\repos\MobileStore2\MobileStore2\bin\Debug\netcoreapp2.0\MobileStore2.runtimeconfig.json
+C:\Users\МукушевА.CORP\source\repos\MobileStore2\MobileStore2\bin\Debug\netcoreapp2.0\MobileStore2.runtimeconfig.dev.json
+C:\Users\МукушевА.CORP\source\repos\MobileStore2\MobileStore2\bin\Debug\netcoreapp2.0\MobileStore2.dll
+C:\Users\МукушевА.CORP\source\repos\MobileStore2\MobileStore2\bin\Debug\netcoreapp2.0\MobileStore2.pdb
+C:\Users\МукушевА.CORP\source\repos\MobileStore2\MobileStore2\obj\Debug\netcoreapp2.0\MobileStore2.csprojAssemblyReference.cache
+C:\Users\МукушевА.CORP\source\repos\MobileStore2\MobileStore2\obj\Debug\netcoreapp2.0\MobileStore2.csproj.CoreCompileInputs.cache
+C:\Users\МукушевА.CORP\source\repos\MobileStore2\MobileStore2\obj\Debug\netcoreapp2.0\MobileStore2.AssemblyInfoInputs.cache
+C:\Users\МукушевА.CORP\source\repos\MobileStore2\MobileStore2\obj\Debug\netcoreapp2.0\MobileStore2.AssemblyInfo.cs
+C:\Users\МукушевА.CORP\source\repos\MobileStore2\MobileStore2\obj\Debug\netcoreapp2.0\MobileStore2.dll
+C:\Users\МукушевА.CORP\source\repos\MobileStore2\MobileStore2\obj\Debug\netcoreapp2.0\MobileStore2.pdb
